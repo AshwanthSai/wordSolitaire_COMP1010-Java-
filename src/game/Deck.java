@@ -1,13 +1,6 @@
 package game;
 
-/*
- * IMPORTANT!!! 
- * 20 marks will be deducted if the following information is not filled.
- * Ravi Inder Singh
- * 46131434
- * [X] 	I confirm this is my own work (in design and implementation) 
- *		and that I have not viewed another student's code OR design.
- *
+/
  * EXAMPLE:
  * GAURAV GUPTA
  * 17299271
